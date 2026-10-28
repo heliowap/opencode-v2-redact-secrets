@@ -1,3 +1,5 @@
+> **Moved.** This plugin now lives in [heliowap/opencode-plugins](https://github.com/heliowap/opencode-plugins/tree/main/plugins/redact-secrets). Install: `opencode plugin add 'github:heliowap/opencode-plugins#main::path:plugins/redact-secrets'`. This repository is archived.
+
 # opencode-v2-redact-secrets
 
 An OpenCode plugin that masks credentials in tool results before the model sees
